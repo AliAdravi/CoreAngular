@@ -1,0 +1,12 @@
+D:\Code\Practice\DotNet\Interview\InterviewModels\bin\Debug\net6.0\InterviewModels.deps.json
+D:\Code\Practice\DotNet\Interview\InterviewModels\bin\Debug\net6.0\InterviewModels.dll
+D:\Code\Practice\DotNet\Interview\InterviewModels\bin\Debug\net6.0\InterviewModels.pdb
+D:\Code\Practice\DotNet\Interview\InterviewModels\obj\Debug\net6.0\InterviewModels.csproj.AssemblyReference.cache
+D:\Code\Practice\DotNet\Interview\InterviewModels\obj\Debug\net6.0\InterviewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Practice\DotNet\Interview\InterviewModels\obj\Debug\net6.0\InterviewModels.AssemblyInfoInputs.cache
+D:\Code\Practice\DotNet\Interview\InterviewModels\obj\Debug\net6.0\InterviewModels.AssemblyInfo.cs
+D:\Code\Practice\DotNet\Interview\InterviewModels\obj\Debug\net6.0\InterviewModels.csproj.CoreCompileInputs.cache
+D:\Code\Practice\DotNet\Interview\InterviewModels\obj\Debug\net6.0\InterviewModels.dll
+D:\Code\Practice\DotNet\Interview\InterviewModels\obj\Debug\net6.0\refint\InterviewModels.dll
+D:\Code\Practice\DotNet\Interview\InterviewModels\obj\Debug\net6.0\InterviewModels.pdb
+D:\Code\Practice\DotNet\Interview\InterviewModels\obj\Debug\net6.0\ref\InterviewModels.dll
